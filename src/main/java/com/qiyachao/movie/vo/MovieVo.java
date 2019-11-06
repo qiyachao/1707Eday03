@@ -3,7 +3,7 @@ package com.qiyachao.movie.vo;
 import com.qiyachao.movie.domain.Movie;
 
 public class MovieVo extends Movie{
-	private Integer abcd;
+	
 	private String startDate;
 	private String endDate;
 	private String startuptime;
